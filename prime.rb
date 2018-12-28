@@ -11,7 +11,7 @@ def prime?(number)
     return TRUE
   end
   
-  for i in range
+  for i in range do
     if number % i == 0
       return FALSE
     end
