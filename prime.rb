@@ -1,2 +1,3 @@
 def prime?(number)
-  if number !<= 1 && number
+  range = 2..number
+  if number !<= 1 && 
