@@ -5,6 +5,6 @@ def prime?(number)
     return False
     
   for i in range
-    if 
+    if number % 1
   
 end
