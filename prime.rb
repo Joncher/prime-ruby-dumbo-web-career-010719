@@ -9,7 +9,6 @@ def prime?(number)
     
   for i in range
     if number % i == 0
-      binding.pry
       return TRUE
     end
   end
