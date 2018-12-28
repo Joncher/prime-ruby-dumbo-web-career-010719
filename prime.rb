@@ -13,6 +13,4 @@ def prime?(number)
     end
   end
   
-  return TRUE
-  
 end
