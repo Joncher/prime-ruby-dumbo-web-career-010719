@@ -10,7 +10,10 @@ def prime?(number)
       return FALSE
     end
   end
-  
-  return TRUE
+  for i in range
+    if number % i != 0
+      return TRUE
+    end
+  end
   
 end
