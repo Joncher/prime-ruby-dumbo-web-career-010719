@@ -1,3 +1,4 @@
+
 def prime?(number)
   range = 2..number
   
@@ -8,6 +9,7 @@ def prime?(number)
     
   for i in range
     if number % i == 0
+      binding.pry
       return FALSE
     end
   end
