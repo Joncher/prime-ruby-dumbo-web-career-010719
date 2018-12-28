@@ -9,10 +9,13 @@ def prime?(number)
    
   if number == 2
     return TRUE
+  end
+  
   for i in range
     if number % i == 0
       return FALSE
     end
   end
+  return TRUE
   
 end
