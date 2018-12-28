@@ -8,7 +8,7 @@ def prime?(number)
   end
    
   if number == 2
-    return 2
+    return TRUE
   for i in range
     if number % i == 0
       return FALSE
