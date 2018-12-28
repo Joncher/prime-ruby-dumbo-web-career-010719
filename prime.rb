@@ -3,5 +3,7 @@ def prime?(number)
   
   if n <= 1
     return False
+    
+  for items
   
 end
