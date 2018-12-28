@@ -4,6 +4,6 @@ def prime?(number)
   if n <= 1
     return False
     
-  for items
+  for i in range
   
 end
