@@ -1,3 +1,3 @@
 def prime?(number)
   range = 2..number
-  if number !<= 1 && for prime in range; 
+  if number !<= 1 && for prime in range; number % i == 0
