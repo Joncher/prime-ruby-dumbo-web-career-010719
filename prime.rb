@@ -6,6 +6,10 @@ def prime?(number)
   if number <= 1
     return FALSE
   end
+   
+  if number == 2
+    return TRUE
+  end
   
   for i in range do
     if number % i == 0
